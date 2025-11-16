@@ -1,4 +1,4 @@
 # new project
 
 this project was created from local system.
-created by Pranav zhawar
+created by Pranav Zhawar.
